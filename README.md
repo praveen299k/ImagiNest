@@ -77,6 +77,10 @@ To fetch images, you need an API key from Unsplash:
 - **Tag**: Manages tags assigned to photos.
 - **User**: Handles user data.
 
+## Screenshots
+You can view project screenshots at the following link:
+[Project Screenshots](https://docs.google.com/document/d/1ZdqLSN1ul9X3adIg6l_zsoF3qz-j9AIq3SQkQGBgxLo/edit?usp=sharing)
+
 ## Acknowledgments
 - **Unsplash API** for providing image data.
 - **Node.js & Express.js** for backend development.
